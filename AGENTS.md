@@ -107,6 +107,14 @@ Do not make the user choose folders, tags, titles, or note types unless a decisi
 
 Favor simple organization. Add folders or categories only when they clearly improve future retrieval.
 
+### Privacy boundary
+
+This GitHub repository contains the agent's operating instructions, not the user's spiritual journal.
+
+Do **not** commit captured thoughts, personal stories, private life details, prayer entries, or Drive archive content into this repository unless the user explicitly asks for a specific piece of content to become part of the public repo.
+
+Synthetic examples are fine for tests. Actual thought content belongs in Google Drive.
+
 ## Skill routing
 
 For capture, cleanup, preservation, source clarification, story preservation, and filing, use:
